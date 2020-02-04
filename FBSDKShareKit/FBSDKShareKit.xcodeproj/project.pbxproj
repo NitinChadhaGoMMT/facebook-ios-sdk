@@ -2482,6 +2482,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 819043CE1D261A7900B2E437 /* FBSDKShareKit.xcconfig */;
 			buildSettings = {
+				ENABLE_BITCODE = YES;
 			};
 			name = Debug;
 		};
@@ -2489,6 +2490,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 819043CE1D261A7900B2E437 /* FBSDKShareKit.xcconfig */;
 			buildSettings = {
+				ENABLE_BITCODE = YES;
 			};
 			name = Release;
 		};

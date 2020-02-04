@@ -1518,6 +1518,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81B71EAC1D1A277300933E93 /* FBSDKLoginKit.xcconfig */;
 			buildSettings = {
+				ENABLE_BITCODE = YES;
 			};
 			name = Debug;
 		};
@@ -1525,6 +1526,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81B71EAC1D1A277300933E93 /* FBSDKLoginKit.xcconfig */;
 			buildSettings = {
+				ENABLE_BITCODE = YES;
 			};
 			name = Release;
 		};
